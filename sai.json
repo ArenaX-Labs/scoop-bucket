@@ -1,19 +1,19 @@
 {
-    "version": "0.0.4",
+    "version": "0.0.5",
     "architecture": {
         "64bit": {
-            "url": "https://storage.googleapis.com/axl-binaries/sai/v0.0.4/sai_0.0.4_windows_amd64.zip",
+            "url": "https://storage.googleapis.com/axl-binaries/sai/v0.0.5/sai_0.0.5_windows_amd64.zip",
             "bin": [
                 "sai.exe"
             ],
-            "hash": "e9307e81f7e4321cb988867c76c41702c4ea6795c46e67534c5d2ef765aa4de1"
+            "hash": "50e00a67a085df38e1a4d30ad1e8bd9b260dc682100945df2c151fcb626aca36"
         },
         "arm64": {
-            "url": "https://storage.googleapis.com/axl-binaries/sai/v0.0.4/sai_0.0.4_windows_arm64.zip",
+            "url": "https://storage.googleapis.com/axl-binaries/sai/v0.0.5/sai_0.0.5_windows_arm64.zip",
             "bin": [
                 "sai.exe"
             ],
-            "hash": "9833945ab250e51cde068dd17c8b7765e3f32a67c098142d0981939f8b8efad5"
+            "hash": "08fa70b40b0993b417d257440dd0b883d9949fa93e9a8428c25f4ba5244aedb9"
         }
     },
     "homepage": "https://competesai.com",
